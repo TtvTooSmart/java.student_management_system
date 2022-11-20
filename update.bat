@@ -1,5 +1,5 @@
 git fetch
 git pull
 git add *
-git commit -m "added challenges"
+git commit -m "updated code"
 git push
